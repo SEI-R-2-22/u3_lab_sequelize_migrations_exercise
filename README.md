@@ -61,5 +61,5 @@ At this point you should have `4` passing tests
 ## Resources
 
 - [Sequelize Migrations](https://sequelize.org/master/manual/migrations.html)
-- [Sequelize Queryinterface](https://sequelize.org/master/class/lib/dialects/abstract/query-interface.js~QueryInterface.html)
+- [Sequelize Queryinterface](https://sequelize.org/api/v6/class/src/dialects/abstract/query-interface.js~queryinterface)
 - [Sequelize Migrations Lesson](https://github.com/SEI-R-1-25/u3_lesson_sequelize_migrations)
